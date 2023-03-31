@@ -71,7 +71,7 @@ Please feel free to use, modify these and experiment. Should you store these fil
 > Photo documentation of building process in time.
 * [STL files](https://github.com/EMPI-PL/RPi_in_Amiga500_case/tree/main/resources/stl)
 > 3d printer files to get mounts and other things ready and prepared for build.
-* [CAD files](https://github.com/EMPI-PL/RPi_in_Amiga500_case/tree/main/resources/cad) provided in *FCstd* format
+* [CAD files](https://github.com/EMPI-PL/RPi_in_Amiga500_case/tree/main/resources/cad) provided in *FCstd* format (FreeCAD recomended)
 * RPi configs and helpers incl. overclock setup (coming soon)
 
 ### Final result

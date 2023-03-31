@@ -6,6 +6,6 @@ Reason is your case may have a different dimensions which potentially may force 
 | Element view | Section | STL file | FreeCAD file | Additional information |
 | --- | --- | --- |:---:| --- |
 | ![mount01](../pic/res_ps_mount_01.png) | Power Supply | n/a | [![3636fc](36_36_fc.png)](cad/mount_powersupply_01.FCStd) | Main mount for **Mean Well RS-25-5 power supply - 5V/5A/25W** |
-| | | | | |
+| ![mount02](../pic/res_ps_mount_02.png) | Power Supply | n/a | [![3636fc](36_36_fc.png)](cad/mount_powersupply_02.FCStd) | An element of PS mount to prevent movement inside the case |
 | | | | | |
 | | | | | |
