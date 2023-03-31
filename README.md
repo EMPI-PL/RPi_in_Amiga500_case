@@ -74,6 +74,8 @@ Please feel free to use, modify these and experiment. Should you store these fil
 
 ### Final result
 ![AmigaPi2](pic/finalres_002.png)
+![AmigaPi3](pic/finalres_003.png)
+![AmigaPi4](pic/finalres_004.png)
 
 ### Costs summary
 Total cost is provided in &euro; with an exchange rate from Polish Zloty as at Mar 31st 2023 which is 1EUR = 4.67PLN.
