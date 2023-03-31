@@ -100,7 +100,7 @@ Below prices exclude shipping and other costs. Also note I'm showing my expenses
 ### Useful resources available on web
 You may want to visit the following sites for some inspiration and potentially additional discussions (flag indicates sites' languages):
 * :poland: [Malinowa Amiga](https://malinowaamiga.wordpress.com) - one of the early inspirations + personal talks with site owner on RETROnizacja Retro Party.
-* :poland: [RETROnizacja](https://retronizacja.pl) - one of the best Retro Party in Poland.
+* :poland: [RETROnizacja](https://retronizacja.pl) - one of the best Retro Parties in Poland.
 * :poland: [Amiparty](https://chal.pl) - best Amiga-only Party in Poland.
 * :poland: [Polski Portal Amigowy](https://www.ppa.pl) - ppa.pl is a Polish Amiga Community portal.
 * :uk: [Amiga Love forum thread on the simillar project](https://www.amigalove.com/viewtopic.php?f=6&t=552) - one of the early inspirations + you can reach out to the community there.
