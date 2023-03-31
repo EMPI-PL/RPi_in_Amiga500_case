@@ -1,6 +1,6 @@
 # Raspberry Pi 4 built into Amiga 500 case
 
-![amigapi_001](pic/amigapi_001.png)
+![amigapi_001](pic/finalres_001.png)
 This repo will explain how to put RPi into Amiga 500 case without any modifications. Moreover the goal is to explain how to build whatever mounts there may be needed to get all ports accessable.
 The final result is no damage to original case is needed to make it look and work as a 100% original Amiga (thoug we know it will never be an Amiga, right? :smile:
 
@@ -72,9 +72,8 @@ Please feel free to use, modify these and experiment. Should you store these fil
 * CAD files (coming soon)
 * RPi configs and helpers incl. overclock setup (coming soon)
 
-### Final outcome
-
-This section needs some work...
+### Final result
+![AmigaPi2](pic/finalres_002.png)
 
 ### Costs summary
 Total cost is provided in &euro; with an exchange rate from Polish Zloty as at Mar 31st 2023 which is 1EUR = 4.67PLN.
@@ -92,7 +91,7 @@ Below prices exclude shipping and other costs.
 | Screws and floppy drive with self build DrawBridge solution | 18&euro; | You should really consider building your own Drawbridge drive following [this guide by Robert Smith](https://amiga.robsmithdev.co.uk) |
 | Power supply + wires, soldering, switches and fuses | 27&euro; | I'm using Mean Well RS-25-5 power supply - 5V/5A/25W |
 | SSD drive + SATA->USB converter | 20&euro; | |
-| **TOTAL** :| **313&euro;** | |
+| **TOTAL** | **313&euro;** | |
 
 ### Useful resources available on web
 You may want to visit the following sites for some inspiration and potentially additional discussions (flag indicates sites' languages):
