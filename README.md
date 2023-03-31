@@ -20,11 +20,11 @@ This project was firstly introduced on Polish Amiga Portal's forum (ppa.pl) back
 My dream of actually owning Amiga 500 system takes me back to begining of '90s. Yep - I've never had one. The only opportunity to play any Amiga game was to visit my friends (thanks a lot Przemek, Bartek and Tomek :smile:). I was a sort of *8-bit guy* back then owning Atari 130XE system which quickly came to be obsolete when PCs came to power. Years passed but my love for retro only grew and some time ago I decided to visit my first Retro Party. Opportunity was to play my beloved **Sensible Soccer** tournament hosted at the party. A side effect of being there was an exposition to all this amazing hardware brought by retro-freaks. One of the units I've seen was special. At first glance it was just an Amiga 600 but it had a "strange" keyboard and no LEDs. After a short conversation with an owner I knew the secret - it wasn't an Amiga but a Raspberry Pi inside the A600 case. That day I've decided to build my own but better looking and with capability to recreate real feel and look.
 
 I had to start from scratch as I've literally had nothing Amiga-related. No case, no keyboard no nothing. Everything had to be either just passed over to me for free or I had to pay for every single piece of hardware to make the dream come true. My first intention was to get a dead Amiga 500 unit and pull out MoBo to start with the case. To my surprise the prices were already crazy back then and today it's even worse. To give you an example from begining of 2023:
-* Good looking Amiga 500 fully working costed approx. 150 Euros in Poland back in 2018.
-* Same Amiga today is at least double the price.
+* Good looking Amiga 500 fully working costed approx. 150&euro; in Poland back in 2018.
+* Same Amiga today is **at least double the price**.
 * Local buy/sell portals like ebay are full of people selling retro hardware for insane prices even without any guarantee the unit will even work.
 
-BTW I'm not complaining - it is what it is...
+BTW I'm not complaining - it is what it is... :unamused:
 
 The ultimate goal to get your own build is simple - to preserve hardware which is getting very rare even if we consider new releases of keyboard membranes, cases etc.
 If you only have an access to keyboard and/or case = you're on the right path. For me a starting point was the case. Trapdoors I've had to buy separately - same for keyboard and everything. :smile:
@@ -37,7 +37,7 @@ If you want to follow this guide please make sure you take into the account the 
 * You will spend money which is inevitable as you want to have a working keyboard, floppy drive and joysticks.
 * To achieve best results you'll need to own a Raspberry Pi 4b (as at Mar 2023). The expectation is with release of RPi 5 this build will be adaptable easly.
 * Originally the build was based on RPi 3b+ which later has been replaced. It doesn't make any sense to use RPi 3b+ as this SBC is to weak to fully utilize real floppy drive.
-* You have a kickstart form a legal source to run it with UAE.
+* You have a kickstart form a legal source to run it under Amiberry (Linux spin of WinUAE).
 * Your Amiga 500 case is *Made in China*. This may or may not be a consideration but there may be some difference in dimensions between "mount points" inside the case.
 > That's why my recomendation would be to have a test 3d printout or a paper printout from the CAD project file (1:1 scale) to check if it fits.
 > CAD files are not provided everywhere so please check the resources to make sure it's OK.
@@ -54,7 +54,7 @@ This build is **fully dependent** on the following:
 * SSD drive in place of memory card to optimize performance of RPi.
 * Kilometers of extenders to get ports accessable from the back of the case... :smile:
 > Please make sure you're using a good quality extenders. Going after cheap ones may cause you trouble.
-* Soldering is necessary. It's better to have someone do this for you if you're not OK soldering wires etc.
+* Soldering is necessary. It's better to have someone do this for you if you're not OK doing this on your own.
 * 3D printing.
 
 You may also consider the following (optional) deps:
@@ -80,7 +80,7 @@ This section needs some work...
 Total cost is provided in &euro; with an exchange rate from Polish Zloty as at Mar 31st 2023 which is 1EUR = 4.67PLN.
 Below prices exclude shipping and other costs.
 
-| Item | Price in &euro; at the moment of acquirement | Comment |
+| Item | Price in &euro; | Comment |
 |---|---:|---|
 | A500 case | 20&euro; | Trapdoors not included |
 | A500 case trapdoors | 8&euro;| |
@@ -90,14 +90,30 @@ Below prices exclude shipping and other costs.
 | Port extenders | 15&euro; | Including 2x USB 2.0; HDMI etc. |
 | 3D printouts | 20&euro; | |
 | Screws and floppy drive with self build DrawBridge solution | 18&euro; | You should really consider building your own Drawbridge drive following [this guide by Robert Smith](https://amiga.robsmithdev.co.uk) |
-| Power unit + wires, soldering, switches and fuses | 27&euro; | |
+| Power supply + wires, soldering, switches and fuses | 27&euro; | I'm using Mean Well RS-25-5 power supply - 5V/5A/25W |
 | SSD drive + SATA->USB converter | 20&euro; | |
-| **TOTAL** ---:| **313&euro;** ||
+| **TOTAL** :| **313&euro;** | |
 
 ### Useful resources available on web
-
-Links etc.
+You may want to visit the following sites for some inspiration and potentially additional discussions (flag indicates sites' languages):
+* :poland: [Malinowa Amiga](https://malinowaamiga.wordpress.com) - one of the early inspirations + personal talks with site owner on RETROnizacja Retro Party.
+* :poland: [RETROnizacja](https://retronizacja.pl) - one of the best Retro Party in Poland.
+* :poland: [Amiparty](https://chal.pl) - best Amiga-only Party in Poland.
+* :poland: [Polski Portal Amigowy](https://www.ppa.pl) - ppa.pl is a Polish Amiga Community portal.
+* :uk: [Amiga Love forum thread on the simillar project](https://www.amigalove.com/viewtopic.php?f=6&t=552) - one of the early inspirations + you can reach out to the community there.
+* :uk: [DrawBridge](https://amiga.robsmithdev.co.uk) - homepage of the amazing Floppy Drive project.
+* :uk: [Tynemouth Software Store](https://www.sellmyretro.com/store/tynemouth-software) - you can get a converter for keyboard, joys and audio there.
+* :uk: [Botland](https://botland.store) - Polish store to get you Raspberry Pi gear.
+* :uk: :ireland: [Sordan](https://sordan.ie) - Great and cheap electronics shop may help you in getting your gear as well.
 
 ### Special thanks
-
-Some people to thank to... :smile:
+There are many people I'd like to thank for their help and support. Some of them may not be aware of their help... :zany_face:
+* My wonderful wife... :smiling_face_with_three_hearts:
+* My *szwagier* + my other *szwagier*... (Polish for *brother-in-law*)
+* Polish Amiga Community around [Polski Portal Amigowy - ppa.pl](https://www.ppa.pl) and RETROnizacja Party.
+* MariuszK - your help was critical! Thanks man!
+* Tomus - some good overclocking tips for RPi.
+* Dimitris Panokostas (aka ***midwan***) for creating and maintaining Amiberry software.
+* Chris Edwards for creating and maintaining PiMiga.
+* Robert Smith for creating DrawBridge - key element to get floopy up and running.
+* Probably couple of others I can't recall at the moment. Big thanks to you as well... :hugs: 
