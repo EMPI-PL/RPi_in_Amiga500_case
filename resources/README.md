@@ -11,8 +11,7 @@ Reason is your case may have a different dimensions which potentially may force 
 | ![mount02](../pic/res_ps_mount_02.png) | Power Supply | [![3636stl](36x36stl.png)](stl/mount_powersupply_02.stl) | [![3636fc](36x36fc.png)](cad/mount_powersupply_02.FCStd) | An element of PS mount to prevent movement inside the case. |
 | ![mount03](../pic/res_ps_mount_03.png) | Power Supply | [![3636stl](36x36stl.png)](stl/mount_powersupply_03.stl) | [![3636fc](36x36fc.png)](cad/mount_powersupply_03.FCStd) | A small element that should be glued on top of connection slot to provide stabilization. |
 | ![mount04](../pic/res_rear_mount_01.png) | A500 case rear | [![3636stl](36x36stl.png)](stl/mount_rearA500case_01.stl) | [![3636fc](36x36fc.png)](cad/mount_rearA500case_01.FCStd) | Provides a mount for ethernet, power fuse, power switch, 2x HDMI female connectors and power connector. |
-| ![mount05](../pic/res_rear_mount_02.png) | A500 case rear | [![3636stl](36x36stl.png)](https://www.thingiverse.com/thing:2831021) | n/a | Provides a mount for 2x USB ports. You need to cut off "audio" part to allow audio composite ports usage.
-This part is built by: Matthew Martin (aka ***mattsoft***) and is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license. |
+| ![mount05](../pic/res_rear_mount_02.png) | A500 case rear | [![3636stl](36x36stl.png)](https://www.thingiverse.com/thing:2831021) | n/a | **External resource**<br />Provides a mount for 2x USB ports. You need to cut off "audio" part to allow audio composite ports usage.<br />This part is built by: Matthew Martin (aka ***mattsoft***) and is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license. |
 | | | | | |
 | | | | | |
 | | | | | |
