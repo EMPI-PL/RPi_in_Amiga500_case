@@ -8,7 +8,7 @@ The final result is no damage to original case is needed to make it look and wor
 * [Story behind this project](#story-behind-this-project)
 * [Considerations and dependencies](#considerations-and-dependencies)
 * [Resources](#resources)
-* [Final outcome](#final-outcome)
+* [Final result](#final-result)
 * [Costs summary](#costs-summary)
 * [Useful resources available on web](#useful-resources-available-on-web)
 * [Special thanks](#special-thanks)
@@ -43,7 +43,7 @@ If you want to follow this guide please make sure you take into the account the 
 > CAD files are not provided everywhere so please check the resources to make sure it's OK.
 
 
-This build is **fully dependent** on the following:
+:red_circle: This build is **fully dependent** on the following:
 * Raspberry Pi 4b with active cooling (heatsink+fan is mandatory).
 * Amiga 500 USB Keyboard Controller (internal connection with audio passthrough) by [Tynemouth Software](http://blog.tynemouthsoftware.co.uk).
 > This will provide you with working DB9 joystick ports, audio and keyboard.
@@ -57,7 +57,7 @@ This build is **fully dependent** on the following:
 * Soldering is necessary. It's better to have someone do this for you if you're not OK doing this on your own.
 * 3D printing.
 
-You may also consider the following (optional) deps:
+:yellow_circle: You may also consider the following (optional) deps:
 * CAD software to tweak the *stl* files in case there's a need.
 * Raspberry Pi overclocking.
 * Last but not least - a lot of free time once your build works to spend it with your Amiga.
@@ -67,9 +67,9 @@ The following resources listed below are made available. In most cases it's done
 Please feel free to use, modify these and experiment. Should you store these files and/or share on your own you're free to do that in compliance with [GNU General Public License v3.0](https://github.com/EMPI-PL/RPi_in_Amiga500_case/blob/main/LICENSE).
 * [Pictures](https://github.com/EMPI-PL/RPi_in_Amiga500_case/tree/main/pic)
 > Photo documentation of building process in time.
-* [STL files](https://github.com/EMPI-PL/RPi_in_Amiga500_case/tree/main/stl)
+* [STL files](https://github.com/EMPI-PL/RPi_in_Amiga500_case/tree/main/resources/stl)
 > 3d printer files to get mounts and other things ready and prepared for build.
-* CAD files (coming soon)
+* [CAD files](https://github.com/EMPI-PL/RPi_in_Amiga500_case/tree/main/resources/cad) provided in *FCstd* format
 * RPi configs and helpers incl. overclock setup (coming soon)
 
 ### Final result
@@ -111,10 +111,10 @@ You may want to visit the following sites for some inspiration and potentially a
 There are many people I'd like to thank for their help and support. Some of them may not be aware of their help... :zany_face:
 * My wonderful wife... :smiling_face_with_three_hearts:
 * My *szwagier* + my other *szwagier*... (Polish for *brother-in-law*)
-* Polish Amiga Community around [Polski Portal Amigowy - ppa.pl](https://www.ppa.pl) and RETROnizacja Party.
+* Polish Amiga Community around Polski Portal Amigowy - ppa.pl and RETROnizacja Party.
 * MariuszK - your help was critical! Thanks man!
 * Tomus - some good overclocking tips for RPi.
 * Dimitris Panokostas (aka ***midwan***) for creating and maintaining Amiberry software.
 * Chris Edwards for creating and maintaining PiMiga.
 * Robert Smith for creating DrawBridge - key element to get floopy up and running.
-* Probably couple of others I can't recall at the moment. Big thanks to you as well... :hugs: 
+* Probably couple of others I can't recall at the moment. Big thanks to you as well... :hugs:
