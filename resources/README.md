@@ -14,4 +14,4 @@ Reason is your case may have a different dimensions which potentially may force 
 | ![mount05](../pic/res_rear_mount_02.png) | A500 case rear | [![3636stl](36x36stl.png)](https://www.thingiverse.com/thing:2831021) | n/a | :triangular_flag_on_post: **External resource**<br />Provides a mount for 2x USB ports. You need to cut off "audio" part to allow audio composite ports usage.<br /><br />This part is built by: Matthew Martin (aka ***mattsoft***) and is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license. |
 | | | | | |
 | | | | | |
-| | | | | |
+| | | | | work in progress |
