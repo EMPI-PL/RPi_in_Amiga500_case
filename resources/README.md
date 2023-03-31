@@ -12,6 +12,15 @@ Reason is your case may have a different dimensions which potentially may force 
 | ![mount03](../pic/res_ps_mount_03.png) | Power Supply | [![3636stl](36x36stl.png)](stl/mount_powersupply_03.stl) | [![3636fc](36x36fc.png)](cad/mount_powersupply_03.FCStd) | A small element that should be glued on top of connection slot to provide stabilization. |
 | ![mount04](../pic/res_rear_mount_01.png) | A500 case rear | [![3636stl](36x36stl.png)](stl/mount_rearA500case_01.stl) | [![3636fc](36x36fc.png)](cad/mount_rearA500case_01.FCStd) | Provides a mount for ethernet, power fuse, power switch, 2x HDMI female connectors and power connector. |
 | ![mount05](../pic/res_rear_mount_02.png) | A500 case rear | [![3636stl](36x36stl.png)](https://www.thingiverse.com/thing:2831021) | n/a | :triangular_flag_on_post: **External resource**<br />Provides a mount for 2x USB ports. You need to cut off "audio" part to allow audio composite ports usage.<br /><br />This part is built by: Matthew Martin (aka ***mattsoft***) and is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license. |
+| ![mount06](../pic/res_rpi_mount_01.png) | Raspberry Pi | [![3636stl](36x36stl.png)](https://www.thingiverse.com/thing:2831021) | n/a | :triangular_flag_on_post: **External resource**<br />This element will allow to mount RPi inside the case with where it's SD card slot is easly accessable via side trapdoor<br /><br />This part is built by: Matthew Martin (aka ***mattsoft***) and is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license. |
+| ![mount06](../pic/res_converter_mount_01.png) | Keyboard converter | [![3636stl](36x36stl.png)](https://www.thingiverse.com/thing:2831021) | n/a | :triangular_flag_on_post: **External resource**<br />A mount for Amiga 500 USB Keyboard Controller.<br /><br />This part is built by: Matthew Martin (aka ***mattsoft***) and is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license. |
+| ![mount06](../pic/res_rear_mount_03.png) | Keyboard converter | [![3636stl](36x36stl.png)](https://www.thingiverse.com/thing:2831021) | n/a | :triangular_flag_on_post: **External resource**<br />Adapters/covers which may be usable to keep mounts in place.<br /><br />This part is built by: Matthew Martin (aka ***mattsoft***) and is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license. |
 | | | | | |
 | | | | | |
+| | | | | |
+| | | | | |
+
 | | | | | work in progress |
+
+
+

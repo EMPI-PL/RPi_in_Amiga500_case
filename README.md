@@ -2,7 +2,7 @@
 
 ![amigapi_001](pic/finalres_001.png)
 This repo will explain how to put RPi into Amiga 500 case without any modifications. Moreover the goal is to explain how to build whatever mounts there may be needed to get all ports accessable.
-The final result is no damage to original case is needed to make it look and work as a 100% original Amiga (thoug we know it will never be an Amiga, right? :smile:
+The final result is no damage to original case is needed to make it look and work as a 100% original Amiga (although we know it will never be a REAL Amiga, right? :smile:).
 
 ---
 * [Story behind this project](#story-behind-this-project)
@@ -119,5 +119,5 @@ There are many people I'd like to thank for their help and support. Some of them
 * Matthew Martin (aka ***mattsoft***) for creating initial mounts for A500 case and sharing openly - I'm doing the same now. :smile:
 * Dimitris Panokostas (aka ***MiDWaN***) for creating and maintaining Amiberry software.
 * Chris Edwards for creating and maintaining PiMiga.
-* Robert Smith for creating DrawBridge - key element to get floopy up and running.
+* Robert Smith for creating DrawBridge - key element to get floppy up and running.
 * Probably couple of others I can't recall at the moment. Big thanks to you as well... :hugs:
