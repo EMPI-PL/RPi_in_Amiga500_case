@@ -7,7 +7,7 @@ The final result is no damage to original case is needed to make it look and wor
 ---
 * [Story behind this project](#story-behind-this-project)
 * [Considerations and dependencies](#considerations-and-dependencies)
-* [Resources](#resources)
+* [Resources section](#resources) | :arrow_right: [Take me to resources subpage now](resources/)
 * [Final result](#final-result)
 * [Costs summary](#costs-summary)
 * [Useful resources available on web](#useful-resources-available-on-web)
