@@ -63,6 +63,7 @@ If you want to follow this guide please make sure you take into the account the 
 * Last but not least - a lot of free time once your build works to spend it with your Amiga.
 
 ### Resources
+:arrow_right: [Take me to resources subpage now](resources/)
 The following resources listed below are made available. In most cases it's done by me from scratch. Whenever the file is not built by me - I'll try to flag the source and owner/creator if I can recall the exact source.
 Please feel free to use, modify these and experiment. Should you store these files and/or share on your own you're free to do that in compliance with [GNU General Public License v3.0](https://github.com/EMPI-PL/RPi_in_Amiga500_case/blob/main/LICENSE).
 * [Pictures](https://github.com/EMPI-PL/RPi_in_Amiga500_case/tree/main/pic)
