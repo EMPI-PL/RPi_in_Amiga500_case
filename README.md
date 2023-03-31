@@ -79,7 +79,7 @@ Please feel free to use, modify these and experiment. Should you store these fil
 
 ### Costs summary
 Total cost is provided in &euro; with an exchange rate from Polish Zloty as at Mar 31st 2023 which is 1EUR = 4.67PLN.
-Below prices exclude shipping and other costs.
+Below prices exclude shipping and other costs. Also note I'm showing my expenses carried in the past so probably this should be already multiplied by 1.25 at least considering actual prices.
 
 | Item | Price in &euro; | Comment |
 |---|---:|---|
